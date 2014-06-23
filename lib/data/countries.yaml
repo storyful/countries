@@ -1159,7 +1159,7 @@ BN:
   national_prefix: '0'
   number: 096
   region: Asia
-  subregion: South-Eastern Asia
+  subregion: Southeast Asia
   un_locode: BN
   languages:
   - ms
@@ -4074,7 +4074,7 @@ ID:
   national_prefix: '0'
   number: '360'
   region: Asia
-  subregion: South-Eastern Asia
+  subregion: Southeast Asia
   un_locode: ID
   languages:
   - id
@@ -4734,7 +4734,7 @@ KH:
   national_prefix: '0'
   number: '116'
   region: Asia
-  subregion: South-Eastern Asia
+  subregion: Southeast Asia
   un_locode: KH
   languages:
   - km
@@ -5095,7 +5095,7 @@ LA:
   national_prefix: '0'
   number: '418'
   region: Asia
-  subregion: South-Eastern Asia
+  subregion: Southeast Asia
   un_locode: LA
   languages:
   - lo
@@ -5875,7 +5875,7 @@ MM:
   national_prefix: None
   number: '104'
   region: Asia
-  subregion: South-Eastern Asia
+  subregion: Southeast Asia
   un_locode: MM
   languages:
   - my
@@ -6337,7 +6337,7 @@ MY:
   national_prefix: '0'
   number: '458'
   region: Asia
-  subregion: South-Eastern Asia
+  subregion: Southeast Asia
   un_locode: MY
   languages:
   - en
@@ -7097,7 +7097,7 @@ PH:
   national_prefix: '0'
   number: '608'
   region: Asia
-  subregion: South-Eastern Asia
+  subregion: Southeast Asia
   un_locode: PH
   languages:
   - tl
@@ -7952,7 +7952,7 @@ SG:
   national_prefix: None
   number: '702'
   region: Asia
-  subregion: South-Eastern Asia
+  subregion: Southeast Asia
   un_locode: SG
   languages:
   - en
@@ -8727,7 +8727,7 @@ TH:
   national_prefix: '0'
   number: '764'
   region: Asia
-  subregion: South-Eastern Asia
+  subregion: Southeast Asia
   un_locode: TH
   languages:
   - th
@@ -8843,7 +8843,7 @@ TL:
   national_prefix: None
   number: '626'
   region: Asia
-  subregion: South-Eastern Asia
+  subregion: Southeast Asia
   un_locode:
   languages:
   - pt
@@ -9634,7 +9634,7 @@ VN:
   national_prefix: '0'
   number: '704'
   region: Asia
-  subregion: South-Eastern Asia
+  subregion: Southeast Asia
   un_locode: VN
   languages:
   - vi
