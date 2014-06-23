@@ -1542,7 +1542,7 @@ CA:
   national_prefix: '1'
   number: '124'
   region: Americas
-  subregion: Northern America
+  subregion: North America
   un_locode: CA
   languages:
   - en
@@ -1949,7 +1949,7 @@ CN:
   national_prefix: '0'
   number: '156'
   region: Asia
-  subregion: Eastern Asia
+  subregion: Greater China
   un_locode: CN
   languages:
   - zh
@@ -3818,7 +3818,7 @@ HK:
   national_prefix: None
   number: '344'
   region: Asia
-  subregion: Eastern Asia
+  subregion: Greater China
   un_locode: HK
   languages:
   - en
@@ -5951,7 +5951,7 @@ MO:
   national_prefix: '0'
   number: '446'
   region: Asia
-  subregion: Eastern Asia
+  subregion: Greater China
   un_locode: MO
   languages:
   - zh
@@ -9282,7 +9282,7 @@ UM:
   national_prefix: ''
   number: '581'
   region: Americas
-  subregion: Northern America
+  subregion: North America
   un_locode: UM
   languages:
   - en
@@ -9328,7 +9328,7 @@ US:
   national_prefix: '1'
   number: '840'
   region: Americas
-  subregion: Northern America
+  subregion: North America
   un_locode: US
   languages:
   - en
